@@ -45,10 +45,3 @@ With the power of **Google Gemini APIs**, **Quantum Neural Networks**, and **clo
 🗣️ Covers: Problem Statement, Solution Overview, Key Features, and MVP walkthrough.
 
 ---
-
-## 📦 Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/quantum-drug-discovery-assistant.git
-   cd quantum-drug-discovery-assistant
